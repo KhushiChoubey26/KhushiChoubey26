@@ -5,9 +5,9 @@
 Passionate about building scalable AI solutions and data-driven applications that solve real-world problems. With a strong foundation in machine learning, cloud computing, and software engineering, I thrive on transforming raw data into actionable insights.
 
 🔭 What I'm Working On:
-Designing AI-powered applications with Reinforcement Learning & GenAI
-Building ETL pipelines and optimizing data workflows for large-scale analytics
-Implementing MLOps best practices for scalable deployment of ML models
+Designing AI-powered applications with Reinforcement Learning & GenAI.
+Building ETL pipelines and optimizing data workflows for large-scale analytics.
+Implementing MLOps best practices for scalable deployment of ML models.
 Research in healthcare AI
 
 🌱 Currently Learning:
