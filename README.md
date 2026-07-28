@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Khushi Choubey!
 
-🚀 Data Scientist | Machine Learning Enthusiast | Full-Stack Developer
+🚀 Data Scientist | Machine Learning Enthusiast
 
 Passionate about building scalable AI solutions and data-driven applications that solve real-world problems. With a strong foundation in machine learning, cloud computing, and software engineering, I thrive on transforming raw data into actionable insights.
 
